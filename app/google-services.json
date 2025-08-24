@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "148231471154",
+    "firebase_url": "https://geofence-ec874-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "geofence-ec874",
+    "storage_bucket": "geofence-ec874.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148231471154:android:ea88d3611d9e7a96a83c2b",
+        "android_client_info": {
+          "package_name": "com.laxshana.project.geofence"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj-8ScRh9_ykAqjL4J3BA55c_5fc0IWEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
