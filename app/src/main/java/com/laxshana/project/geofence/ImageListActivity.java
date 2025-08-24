@@ -43,7 +43,7 @@ public class ImageListActivity extends AppCompatActivity {
     }
     @Override
     public boolean onSupportNavigateUp() {
-        onBackPressed(); // Go back to previous activity
+        onBackPressed(); // Go back to previous activities
         return true;
     }
 
