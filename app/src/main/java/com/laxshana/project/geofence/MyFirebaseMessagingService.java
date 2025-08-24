@@ -30,7 +30,7 @@ public class MyFirebaseMessagingService extends FirebaseMessagingService {
     public void onMessageReceived(RemoteMessage remoteMessage) {
         super.onMessageReceived(remoteMessage);
 
-        String title = "Motion Alert";
+        String title = "Motion Alert - 01";
         String body = "Motion detected!";
         if (remoteMessage.getNotification() != null) {
             title = remoteMessage.getNotification().getTitle();
